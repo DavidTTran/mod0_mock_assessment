@@ -1,0 +1,19 @@
+Class: Boat
+
+Attributes:
+boat_name (string)
+material (array)
+crew (array)
+dock_location (string)
+is_docked (boolean)
+weight (float)
+destination (string)
+number_of_passengers (integer)
+
+Methods:
+change_name (changes the boat_name)
+add_crew_member (adds "(crew member name)" to the crew array)
+ship_out (changes the is_docked boolean)
+add_passenger (changes the number_of_passengers)
+change_destination (changes the destination string)
+repair_boat (may add to the material array)
