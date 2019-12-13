@@ -1,0 +1,51 @@
+Doing Laundry
+
+1. take off dirty clothes
+2. put dirty clothes in hamper
+3. get dirty clothes
+  3.1 check hamper
+  3.2 check room
+    3.2.1 check underneath the bed
+    3.2.2 remove bed sheets
+    3.2.3 check bathroom
+      3.2.3.1 get towels
+  3.3 check garage
+    3.3.1 check car
+4. sort dirty clothes
+  4.1 lights
+  4.2 darks
+  4.3 washer safe
+  4.4 steam clean
+    4.4.1 set aside for later
+5. open washer
+6. load dirty clothes into washer
+7. add detergent
+  7.1 if light clothes
+    7.1.1 can add bleach
+8. close washer door
+9. turn on washer
+10. set washer
+  10.1 check settings
+    10.1.1 time
+    10.1.2 temperature
+    10.1.3 spin
+11. begin cycle
+12. wait
+  12.1 make a sandwich
+13. open washer
+14. unload washer
+15. open dryer
+16. load into dryer
+17. close dryer
+18. check settings
+  18.1 time
+  18.2 temperature
+  18.3 dryness
+19. begin cycle
+20. wait
+  20.1 make another sandwich
+21. open dryer
+22. unload dryer
+23. separate clothes
+24. fold clothes
+  24.1 except for wrap around bedsheets because who knows how to fold those
