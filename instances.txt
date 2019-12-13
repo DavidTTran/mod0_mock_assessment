@@ -1,0 +1,39 @@
+Object: Titanic
+
+Attributes:
+boat_name = "Titanic"
+material = ["steel", "plastic", "wood", "fiberglass", "aluminum"]
+crew = ["Bob", "Joe", "Mary"]
+dock_location = "France"
+is_docked = false
+weight = 117174400.00 (lbs)
+number_of_passengers = 0
+
+Methods:
+change_name: boat_name = 'Black Pearl'
+add_crew_member: crew = ["Bob", "Joe", "Mary", "Chris", "Susie"]
+ship_out: is_docked = false
+board_passenger: number_of_passengers = 2435
+repair_boat: material = ["duct tape", "steel", "plastic", "wood", "fiberglass", "aluminum"]
+load_cargo: weight = 117174400 + 20000
+
+
+
+Object: Row boat
+
+Attributes:
+boat_name = ""
+material = ["wood", "plastic"]
+crew = []
+dock_location = "garage"
+is_docked = true
+weight = 211.5
+number_of_passengers = 0
+
+Methods:
+change_name: boat_name = "The Flying Dutchman"
+add_crew_member: crew = ['David']
+ship_out: is_docked = false
+board_passenger: number_of_passengers = 1
+repair_boat: material = ['duct tape', 'wood', 'plastic']
+load_cargo: weight = 211.5 + 40
